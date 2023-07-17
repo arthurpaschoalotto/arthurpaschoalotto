@@ -1,15 +1,15 @@
-### Bem-vindo ao meu perfil profissional! 😁
+### Bem-vindo ao meu perfil profissional! 🙋🏻‍♂️
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eng.arthurpaschoalotto@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-paschoalotto-488839174/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paschoalothur/)
 [![Whats APP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/44999165322)
 
-### Sobre mim
+### 🧑‍💻 Sobre mim
 
-Engenheiro da Computação graduado pela Faculdade de Engenharia e Inovação Técnico Profissional (2022). Atuou em pesquisas sobre tecnologias para automação do setor supermercadista (2020-2021). Especializado em Inteligência Artificial aplicada a industria pela Fauldade das Industrias (2023) e Master Business Master em Machine Learning pela XP Educação (2023). Uma pessoa comunicativa, com habilidades lógicas e afinidade com programação. Já trabalhou como Desenvolvedor WEB Full Stack e atualmente realiza trabalhos na área de Inteligência Artificial.
+Engenheiro da Computação graduado pela Faculdade de Engenharia e Inovação Técnico Profissional (2022). Atuou em pesquisas sobre tecnologias para automação do setor supermercadista (2020-2021). Especializado em Inteligência Artificial aplicada a industria pela Fauldade das Industrias (2023) e Master Business Administration em Machine Learning pela XP Educação (2023). Uma pessoa comunicativa, com habilidades lógicas e afinidade com programação. Já trabalhou como Desenvolvedor WEB Full Stack e atualmente realiza trabalhos na área de Inteligência Artificial.
 
-### Tenologias utilizadas
+### 🖥 Tenologias
 
 <div style="display: inline_block"><br/>
     <img algin="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -21,9 +21,12 @@ Engenheiro da Computação graduado pela Faculdade de Engenharia e Inovação T�
     <img algin="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpaschoalotto&hide_progress=true)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpaschoalotto&hide_progress=true" width="415">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=arthurpaschoalotto&theme=white" alt="arthurpaschoalotto" />
+</p>
 
-### Bibliotecas
+### 🤖 Bibliotecas Python
 
 <div style="display: inline_block"><br/>
     <img algin="center" alt="Pythorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
