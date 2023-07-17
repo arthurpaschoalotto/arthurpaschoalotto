@@ -9,7 +9,7 @@
 
 Engenheiro da Computação graduado pela Faculdade de Engenharia e Inovação Técnico Profissional (2022). Atuou em pesquisas sobre tecnologias para automação do setor supermercadista (2020-2021). Especializado em Inteligência Artificial aplicada a industria pela Fauldade das Industrias (2023) e Master Business Administration em Machine Learning pela XP Educação (2023). Uma pessoa comunicativa, com habilidades lógicas e afinidade com programação. Já trabalhou como Desenvolvedor WEB Full Stack e atualmente realiza trabalhos na área de Inteligência Artificial.
 
-### 🖥 Tenologias
+### 🖥 Tenologias com que trabalho
 
 <div style="display: inline_block"><br/>
     <img algin="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -26,7 +26,7 @@ Engenheiro da Computação graduado pela Faculdade de Engenharia e Inovação T�
   <img src="http://github-readme-streak-stats.herokuapp.com?user=arthurpaschoalotto&theme=white" alt="arthurpaschoalotto" />
 </p>
 
-### 🤖 Bibliotecas Python
+### 🤖 Bibliotecas Python que mais utilizo
 
 <div style="display: inline_block"><br/>
     <img algin="center" alt="Pythorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
