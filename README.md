@@ -22,8 +22,8 @@ Engenheiro da Computação graduado pela Faculdade de Engenharia e Inovação T�
 </div>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpaschoalotto&hide_progress=true" width="415">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=arthurpaschoalotto&theme=white" alt="arthurpaschoalotto" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpaschoalotto&hide_progress=true" width="348">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=arthurpaschoalotto&theme=white" width="415" alt="arthurpaschoalotto" />
 </p>
 
 ### 🤖 Bibliotecas Python que mais utilizo
